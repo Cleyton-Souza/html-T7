@@ -1,5 +1,5 @@
 # html-T7
-Introdução ao HTML para a Turma 7 - noturno do projeto Ford Enter
+## Introdução ao HTML para a Turma 7 - noturno do projeto Ford Enter
 
 #### Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit... 
 
